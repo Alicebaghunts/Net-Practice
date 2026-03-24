@@ -340,4 +340,4 @@ A wildcard mask is the inverse of a subnet mask and is often used in ACLs (Acces
 
 ****
 
-<p align="center">2025 This project was created by Derya ACAR.</p>
+<p align="center">2025 This project was created by Alice Baghunts (alisharu) </p>

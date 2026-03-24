@@ -1,11 +1,5 @@
-<h1 align="center">42 - Net_Practice 🌐</h1>
+<h1>42 - Net_Practice </h1>
 
-<!-- Project Logo or Image -->
-<p align="center">
-  <a target="blank"><img src="https://github.com/deryaxacar/42-Net_Practice/blob/main/netpractice.png" height="150" width="150" /></a>
-</p>
-
-<!-- Project Description -->
 <p align="center">
   Net_Practice is a project developed as part of the 42 Network Bootcamp, designed to understand network programming and network protocols. This project comprehensively covers fundamental topics such as network configurations, communication protocols, and data encapsulation. Net_Practice enables users to develop network applications and evaluate the performance of existing networks. Offering both theoretical knowledge and practical experience, this project provides an in-depth look at network technologies.
 </p>

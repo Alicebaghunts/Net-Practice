@@ -6,49 +6,56 @@
 
 ---
 
-![img](https://github.com/deryaxacar/42-Net_Practice/blob/main/ipsubnetting.png)
-
----
-
-
-## Learn Basic Network :book:
-
-You also can learn basic network config in level 1 - 5
+## Solutions (pngs)
 
 <details>
 <summary>Level 1</summary>
-
-The first exercise on the list is a simple problem of direct communication between each 2 devices. You need to make sure that each two devices that need to communicate between each other are, in fact, in the same network.
-
 <img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level1.png" alt="solve-level-1">
 </details>
 
 <details>
 <summary>Level 2</summary>
-Border ip is cannot be used because it is reserved for network transmission.
-
 <img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level2.png" alt="solve-level-2">
 </details>
 
 <details>
 <summary>Level 3</summary>
-Border ip is cannot be used because it is reserved for network transmission.
-
 <img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level3.png" alt="solve-level-3">
 </details>
 
 <details>
 <summary>Level 4</summary>
-Border ip is cannot be used because it is reserved for network transmission.
-
 <img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level4.png" alt="solve-level-4">
 </details>
 
 <details>
 <summary>Level 5</summary>
-Border ip is cannot be used because it is reserved for network transmission.
-
 <img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level5.png" alt="solve-level-5">
+</details>
+
+<details>
+<summary>Level 6</summary>
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level6.png"alt="solve-level-6">
+</details>
+
+<details>
+<summary>Level 7</summary>
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level7.png" alt="solve-level-7">
+</details>
+
+<details>
+<summary>Level 8</summary>
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level8.png" alt="solve-level-8">
+</details>
+
+<details>
+<summary>Level 9</summary>
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level9.png" alt="solve-level-9">
+</details>
+
+<details>
+<summary>Level 10</summary>
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level10.png" alt="solve-level-10">
 </details>
 
 
@@ -133,6 +140,12 @@ This table shows the bits in the binary number system along with their binary va
     </tr>
   </table>
 </div>
+
+---
+
+---
+
+![img](https://github.com/deryaxacar/42-Net_Practice/blob/main/ipsubnetting.png)
 
 ---
 

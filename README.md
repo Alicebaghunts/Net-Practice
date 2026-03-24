@@ -1,33 +1,8 @@
 <h1>42 - Net_Practice </h1>
 
-<p align="center">
+<p>
   Net_Practice is a project developed as part of the 42 Network Bootcamp, designed to understand network programming and network protocols. This project comprehensively covers fundamental topics such as network configurations, communication protocols, and data encapsulation. Net_Practice enables users to develop network applications and evaluate the performance of existing networks. Offering both theoretical knowledge and practical experience, this project provides an in-depth look at network technologies.
 </p>
-
----
-
-### Table of Contents 🔗
-
-- [Binary Number System](#binary-number-system)
-   - [Table](#table)
-   - [Explanation](#explanation)
-- [IP Addresses: IPv4 and IPv6](#ip-addresses-ipv4-and-ipv6)
-   - [IPv4 and IPv6 Formats](#ipv4-and-ipv6-formats)
-   - [IPv4 vs IPv6 Comparison](#ipv4-vs-ipv6-comparison)
-- [IP Address Classes](#ip-address-classes)
-   - [Class A IP Address](#class-a-ip-address)
-   - [Class B IP Address](#class-b-ip-address)
-   - [Class C IP Address](#class-c-ip-address)
-   - [Class D IP Address](#class-d-ip-address)
-   - [Class E IP Address](#class-e-ip-address)
-- [IP Address Classes and Calculations](#ip-address-classes-and-calculations)
-- [IP Calculations](#ip-calculations)
-   - [Subnet Calculation](#subnet-calculation)
-   - [Subnet Mask](#subnet-mask)
-   - [CIDR Notation](#cidr-notation)
-   - [Usable IP Count Calculation](#usable-ip-count-calculation)
-   - [Wildcard Mask](#wildcard-mask)
-- [Example Calculations](#example-calculations)
 
 ---
 
@@ -265,6 +240,31 @@ A wildcard mask is the inverse of a subnet mask and is often used in ACLs (Acces
 - For subnet mask 255.255.255.0, the wildcard mask is: 0.0.0.255
 
 ---
+
+
+### Table of Contents 🔗
+
+- [Binary Number System](#binary-number-system)
+   - [Table](#table)
+   - [Explanation](#explanation)
+- [IP Addresses: IPv4 and IPv6](#ip-addresses-ipv4-and-ipv6)
+   - [IPv4 and IPv6 Formats](#ipv4-and-ipv6-formats)
+   - [IPv4 vs IPv6 Comparison](#ipv4-vs-ipv6-comparison)
+- [IP Address Classes](#ip-address-classes)
+   - [Class A IP Address](#class-a-ip-address)
+   - [Class B IP Address](#class-b-ip-address)
+   - [Class C IP Address](#class-c-ip-address)
+   - [Class D IP Address](#class-d-ip-address)
+   - [Class E IP Address](#class-e-ip-address)
+- [IP Address Classes and Calculations](#ip-address-classes-and-calculations)
+- [IP Calculations](#ip-calculations)
+   - [Subnet Calculation](#subnet-calculation)
+   - [Subnet Mask](#subnet-mask)
+   - [CIDR Notation](#cidr-notation)
+   - [Usable IP Count Calculation](#usable-ip-count-calculation)
+   - [Wildcard Mask](#wildcard-mask)
+- [Example Calculations](#example-calculations)
+
 
 ### Example Calculations
 

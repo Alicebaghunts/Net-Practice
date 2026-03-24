@@ -55,7 +55,7 @@
 
 <details>
 <summary>Level 10</summary>
-<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level10.png" alt="solve-level-10">
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/level10.png" alt="solve-level-10">
 </details>
 
 
